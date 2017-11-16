@@ -1,2 +1,11 @@
 # TechTrio
-Mobile application for domestic violence, hate crime, FGM, Forced marriage. Liam, Ben, Zane
+Mobile application for domestic violence, hate crime, FGM, Forced marriage.
+
+Wirral Metropolitan College
+Unit 7 - Mobile Apps Development 
+Assignment 1
+
+Developed by students:
+        • Liam Rice
+        • Ben Benny
+        • Zane Hancox
