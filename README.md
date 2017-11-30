@@ -1,4 +1,4 @@
-# TechTrio
+# STEP
 Mobile application for domestic violence, hate crime, FGM, Forced marriage.
 
 Wirral Metropolitan College
